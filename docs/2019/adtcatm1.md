@@ -1,12 +1,12 @@
 ## ADT Cat.M1 ThingPlug 앱소개
 * ADT ThingPlug 포털 사이트를 이용하여 단말정보 및 단말상태를 조회하는 앱입니다.
-* 반드시 ADT ThingPlug 포털 계정이 필요합니다.
-* [ADT ThingPlug Portal](https://adtportal.sktiot.com:9447/)
+* 앱에 필요한 권한은 반드시 허용을 해주시고, 정보 조회 단말 정보는 서버로 전달되는 점을 숙지 부탁드립니다.
+* 반드시 ADT Cat.M1 관계자만 사용을 해주시기 바랍니다.
 
-## 사용법
-* 포털 계정을 이용해서 로그인을 수행한다.
-* 단말정보를 통해서 상세 정보를 파악한다.
-* 단말 상세 정보를 이용해서 단말신호 상태를 조회한다.
+## 사이트 안내
+* [ADT ThingPlug Portal](https://adtportal.sktiot.com:9447/)
+* [최신 앱 다운로드](https://gcloud.sukmoonlee.com/adt-thingplug.apk)
+* [앱 사용 설명서](https://github.com/sukmoonlee/sukmoonlee.github.io/blob/master/docs/2019/adtcatm1.md)
 
 ## 용어설명
 * ThingPlug: IoT 서비스를 만들고 사용할 수 있도록 환경을 지원하는 기반 인프라
