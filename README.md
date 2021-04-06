@@ -1,3 +1,3 @@
-# sukmoonlee.github.io
+# Sukmoon Lee Blog
 
 ## Welcome 
